@@ -1,0 +1,47 @@
+site_name: Accessible Voting Index
+theme:
+  name: material
+  custom_dir: docs/overrides
+  font:
+    text: Segoe UI
+  palette:
+    scheme: default
+    accent: indigo
+    link: indigo
+  features:
+    - navigation.expand
+    - navigation.instant
+    - navigation.tabs
+docs_dir: "docs"
+repo_url: https://github.com/CivicDesign/Accessible-Voting-Index
+plugins:
+  - search
+  - mermaid2
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - meta
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.arithmatex:
+      generic: true
+
+nav:
+  - Overview: index.md
+  - Policy: policy.md
+  - Finding Accessible Voting Options: accessibility_resources.md 
+  - Website Accessibility Review: state_accessibility_review.md
+  - State Election Resources: state_resources.md
+  - Election Stories: stories.md 
+
+extra_css:
+  - stylesheets/extra.css  
