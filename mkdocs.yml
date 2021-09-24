@@ -1,7 +1,6 @@
 site_name: Accessible Voting Index
 theme:
   name: material
-  custom_dir: docs/overrides
   font:
     text: Segoe UI
   palette:
