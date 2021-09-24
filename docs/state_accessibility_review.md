@@ -23,7 +23,7 @@ If you are starting with this site, or want to do another state site, go to [thi
 
 The results will appear on the screen. Look at the panel on the left for a Summary report. WAVE gives a summary report of 6 items. Then click on Details to see more
 
-Use [this form](form.md) to report what you found.
+Use [this form](https://foo.com) to report what you found.
 You can continue with another page at the end.
 
 #### Fields to collect
