@@ -19,14 +19,14 @@ If you are starting with this site, or want to do another state site, go to [thi
 ### Check with WebAim’s WAVE
 
 * Go to wave.webaim.org
-* Enter the URL for the page you are checking (for example https://vote.ST.gov/accessible-voting.html
+* Enter the URL for the page you are checking (for example: [https://vote.ST.gov/accessible-voting.html](https://vote.ST.gov/accessible-voting.html)
 
 The results will appear on the screen. Look at the panel on the left for a Summary report. WAVE gives a summary report of 6 items. Then click on Details to see more
 
 Use [this form](form.md) to report what you found.
 You can continue with another page at the end.
 
-#### Fields to collect:
+#### Fields to collect
 
 * Your name and email
 * What state is this website in (List)
@@ -81,7 +81,7 @@ URL of the page
 
 !!! alert "Easy Check 4: Can text be resized and does it redisplay when the browser window is resized?"
 
-* Change the width of the browser window. 
+* Change the width of the browser window.
 * Does the text “reflow” to fit in the window?
 * Does it maintain a logical order when the browser window gets very narrow?
 * Does the banner or menu layout of the page change when as the browser width changes?

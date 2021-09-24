@@ -1,0 +1,449 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../assets/images/favicon.png" rel="icon"/>
+<meta content="mkdocs-1.2.2, mkdocs-material-7.2.8" name="generator"/>
+<title>Website Accessibility Review - Accessible Voting Index</title>
+<link href="../assets/stylesheets/main.92558b1b.min.css" rel="stylesheet"/>
+<link href="../assets/stylesheets/palette.3f5d1f46.min.css" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Segoe+UI:300,400,400i,700%7C&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font-family:"Segoe UI";--md-code-font-family:""}</style>
+<link href="../stylesheets/extra.css" rel="stylesheet"/>
+</head>
+<body data-md-color-accent="indigo" data-md-color-primary="" data-md-color-scheme="default" dir="ltr">
+<script>function __prefix(e){return new URL("..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#accessibility-review-data-collection">
+          Skip to content
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header" data-md-component="header">
+<nav aria-label="Header" class="md-header__inner md-grid">
+<a aria-label="Accessible Voting Index" class="md-header__button md-logo" data-md-component="logo" href=".." title="Accessible Voting Index">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"></path></svg>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            Accessible Voting Index
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              Website Accessibility Review
+            
+          </span>
+</div>
+</div>
+</div>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Search" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"></path></svg>
+</label>
+<nav aria-label="Search" class="md-search__options">
+<button aria-label="Clear" class="md-search__icon md-icon" tabindex="-1" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Initializing search
+          </div>
+<ol class="md-search-result__list"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="md-header__source">
+<a class="md-source" data-md-component="source" href="https://github.com/CivicDesign/Accessible-Voting-Index/" title="Go to repository">
+<div class="md-source__icon md-icon">
+<svg viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"></path></svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<nav aria-label="Tabs" class="md-tabs" data-md-component="tabs">
+<div class="md-tabs__inner md-grid">
+<ul class="md-tabs__list">
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="..">
+      Overview
+    </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../policy/">
+      Policy
+    </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../accessibility_resources/">
+      Finding Accessible Voting Options
+    </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link md-tabs__link--active" href="./">
+      Website Accessibility Review
+    </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../state_resources/">
+      State Election Resources
+    </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../stories/">
+      Election Stories
+    </a>
+</li>
+</ul>
+</div>
+</nav>
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigation" class="md-nav md-nav--primary md-nav--lifted" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="Accessible Voting Index" class="md-nav__button md-logo" data-md-component="logo" href=".." title="Accessible Voting Index">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"></path></svg>
+</a>
+    Accessible Voting Index
+  </label>
+<div class="md-nav__source">
+<a class="md-source" data-md-component="source" href="https://github.com/CivicDesign/Accessible-Voting-Index/" title="Go to repository">
+<div class="md-source__icon md-icon">
+<svg viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"></path></svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="..">
+        Overview
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../policy/">
+        Policy
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../accessibility_resources/">
+        Finding Accessible Voting Options
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          Website Accessibility Review
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+        Website Accessibility Review
+      </a>
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#sample-flows">
+    Sample flows
+  </a>
+<nav aria-label="Sample flows" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#check-with-webaims-wave">
+    Check with WebAim’s WAVE
+  </a>
+<nav aria-label="Check with WebAim’s WAVE" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#fields-to-collect">
+    Fields to collect
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#wave-results">
+    WAVE Results
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#check-with-wais-easy-checks">
+    Check with WAI’s Easy Checks
+  </a>
+<nav aria-label="Check with WAI’s Easy Checks" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#fields-and-instructions">
+    Fields and instructions
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../state_resources/">
+        State Election Resources
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../stories/">
+        Election Stories
+      </a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#sample-flows">
+    Sample flows
+  </a>
+<nav aria-label="Sample flows" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#check-with-webaims-wave">
+    Check with WebAim’s WAVE
+  </a>
+<nav aria-label="Check with WebAim’s WAVE" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#fields-to-collect">
+    Fields to collect
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#wave-results">
+    WAVE Results
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#check-with-wais-easy-checks">
+    Check with WAI’s Easy Checks
+  </a>
+<nav aria-label="Check with WAI’s Easy Checks" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#fields-and-instructions">
+    Fields and instructions
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<a class="md-content__button md-icon" href="https://github.com/CivicDesign/Accessible-Voting-Index/edit/master/docs/state_accessibility_review.md" title="Edit this page">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"></path></svg>
+</a>
+<h1 id="accessibility-review-data-collection">Accessibility Review Data Collection</h1>
+<div class="admonition alert">
+<p class="admonition-title">How accessible are state election information sites, especially the information about accessible voting?</p>
+<p>We know that’s a bit meta, but we had to choose a consistent page to review, and that was an easy choice</p>
+</div>
+<p>If you are continuing from collecting basic website information you already have the links to the state website you will be reviewing for accessibility.</p>
+<p>If you are starting with this site, or want to do another state site, go to <a href="../state_resources/">this resource</a> to pick a state and find a link to their voter information site and the accessible voting information page.</p>
+<p><a class="md-button md-button--green" href="https://wave.webaim.org">Check with WebAim's WAVE</a></p>
+<p><a class="md-button md-button--blue" href="https://beta.lfocalculator.org">Check with Microsoft Insights</a></p>
+<p><a class="md-button md-button--amber" href="https://beta.lfocalculator.org">Check with WAI’s Easy Checks</a></p>
+<h2 id="sample-flows">Sample flows</h2>
+<h3 id="check-with-webaims-wave">Check with WebAim’s WAVE</h3>
+<ul>
+<li>Go to wave.webaim.org</li>
+<li>Enter the URL for the page you are checking (for example: <a href="https://vote.ST.gov/accessible-voting.html">https://vote.ST.gov/accessible-voting.html</a></li>
+</ul>
+<p>The results will appear on the screen. Look at the panel on the left for a Summary report. WAVE gives a summary report of 6 items. Then click on Details to see more</p>
+<p>Use <a href="form.md">this form</a> to report what you found.
+You can continue with another page at the end.</p>
+<h4 id="fields-to-collect">Fields to collect</h4>
+<ul>
+<li>Your name and email</li>
+<li>What state is this website in (List)</li>
+<li>What kind of page: Home Page, Accessible Voting Page, Other: ____</li>
+<li>URL of the page</li>
+</ul>
+<h3 id="wave-results">WAVE Results</h3>
+<ul>
+<li>How many errors were found?</li>
+<li>What types of errors and how many of each are shown on the details page?</li>
+<li>How many contrast errors?</li>
+<li>How many alerts?</li>
+<li>What type of alerts are shown on the details page?</li>
+<li>How many features were found?</li>
+<li>How many structural elements were found?</li>
+<li>How many ARIA elements were found?</li>
+</ul>
+<h3 id="check-with-wais-easy-checks">Check with WAI’s Easy Checks</h3>
+<ul>
+<li>Go to the page you want to test</li>
+<li>Follow the instructions in the form to complete 5 quick checks</li>
+</ul>
+<h4 id="fields-and-instructions">Fields and instructions</h4>
+<p>Enter information to identify the page you are testing</p>
+<ul>
+<li>Your name and email</li>
+<li>What state is this website in (List)</li>
+<li>What kind of page: Home Page, Accessible Voting Page, Other: ____
+URL of the page</li>
+</ul>
+<div class="admonition alert">
+<p class="admonition-title">Easy Check 1: Is there a meaningful page title?</p>
+<p>Look at the text that appears in the browser tab to identify the web page. You can also bookmark the page and then look at the how the page is listed in your bookmarks:</p>
+</div>
+<ul>
+<li>Page TITLE: What is the text in the page title in the browser tab or bookmarks</li>
+<li>Page CONTENT TITLE: What is the title of the page shown in the page content (it may be different or longer</li>
+</ul>
+<div class="admonition alert">
+<p class="admonition-title">Easy Check 2: Do images have alt text</p>
+<p>Follow the instructions from the Web Accessibility Initiative to check for alt text on images using WAVE, or with the WebDev toolbar. Or, use your own tool.</p>
+</div>
+<ul>
+<li>How many images without alt text are found (enter 0 for none)</li>
+<li>How many of those  images are in the page navigation or frame?</li>
+<li>How many of those images are in the content?</li>
+<li>If possible, describe an example of information or navigation that a voter would not have access to because of missing alt text.</li>
+</ul>
+<p>!!! Easy Check 3: Is content structured with headings&gt;
+    Follow the instructions from the Web Accessibility Initiative to check for alt text on images using The HTML Validator. Or, use your own tool.</p>
+<ul>
+<li>Does the content include structural headings?</li>
+<li>Do you see any text that looks like a heading, but is not marked up to be a structural heading?</li>
+<li>Are the headings numbered in a logical order matching the logic of the content.</li>
+</ul>
+<div class="admonition alert">
+<p class="admonition-title">Easy Check 4: Can text be resized and does it redisplay when the browser window is resized?</p>
+</div>
+<ul>
+<li>Change the width of the browser window.</li>
+<li>Does the text “reflow” to fit in the window?</li>
+<li>Does it maintain a logical order when the browser window gets very narrow?</li>
+<li>Does the banner or menu layout of the page change when as the browser width changes?</li>
+<li>Is the page readable at 100% zoom at a narrow browser width</li>
+</ul>
+<p>Resize the text to 200%. In most browsers, you can do this by holding the <code>Option</code> or <code>Command</code> key and pressing <code>+</code>; 4-5 presses should reach 200% . You can find instructions from the <a href="https://wai.org">Web Accessibility Initiative</a> if needed.</p>
+<ul>
+<li>Does the text “reflow” to fit in the window, maintaining the layout of the page</li>
+<li>Is there any horizontal scrolling at 200%</li>
+</ul>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<nav aria-label="Footer" class="md-footer__inner md-grid">
+<a aria-label="Previous: Finding Accessible Voting Options" class="md-footer__link md-footer__link--prev" href="../accessibility_resources/" rel="prev">
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"></path></svg>
+</div>
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                Previous
+              </span>
+              Finding Accessible Voting Options
+            </div>
+</div>
+</a>
+<a aria-label="Next: State Election Resources" class="md-footer__link md-footer__link--next" href="../state_resources/" rel="next">
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                Next
+              </span>
+              State Election Resources
+            </div>
+</div>
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"></path></svg>
+</div>
+</a>
+</nav>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+          Material for MkDocs
+        </a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<script id="__config" type="application/json">{"base": "..", "features": ["navigation.expand", "navigation.instant", "navigation.tabs"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.94ec81fe.min.js", "version": null}</script>
+<script src="../assets/javascripts/bundle.48dfec6c.min.js"></script>
+</body>
+</html>
