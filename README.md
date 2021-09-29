@@ -16,7 +16,9 @@ general info goes up here.
 <p><b><a href="https://www.jotform.com/form/212706217322143">Get started on basic website information</a></b></p>
 
 <h3>3. Report on findability, or how hard (or easy) it is to find that information</h3>
-<p>You will collect details on the click path from the home page, internal and global site search, and whether the best pages appear near the top of search results. And, you'll identify what keywords help you get right to the information voters with disabilities need. <a href="https://www.jotform.com/form/212714629843157">Test link to form 2</a></p>
+<p>You will collect details on the click path from the home page, internal and global site search, and whether the best pages appear near the top of search results. And, you'll identify what keywords help you get right to the information voters with disabilities need. </p>
+
+<p><b><a href="https://www.jotform.com/form/212714629843157">Get started on the findability analysis</a><b></p>
 
 <H3>2. Tackle some more accessibility challenges</h3>
 <p>Want to go deeper into the accessibility evaluation. Here's an opportunity to show off your chops with more accessibility evaluation of the site forms, PDF files and more, using your favorite evaluation tools.</p>
