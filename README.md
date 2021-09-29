@@ -18,7 +18,7 @@ general info goes up here.
 <h3>2. Report on findability, or how hard (or easy) it is to find that information</h3>
 <p>You will collect details on the click path from the home page, internal and global site search, and whether the best pages appear near the top of search results. And, you'll identify what keywords help you get right to the information voters with disabilities need. </p>
 
-<p><b><a href="https://www.jotform.com/form/212714629843157">Get started on the findability analysis</a><b></p>
+<p><b><a href="https://www.jotform.com/form/212714629843157">Get started on the findability analysis</a></b></p>
 
 <H3>3. Tackle some more accessibility challenges</h3>
 <p>Want to go deeper into the accessibility evaluation. Here's an opportunity to show off your chops with more accessibility evaluation of the site forms, PDF files and more, using your favorite evaluation tools.</p>
