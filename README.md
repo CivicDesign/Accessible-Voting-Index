@@ -23,10 +23,10 @@ general info goes up here.
 <H3>2. Tackle some more accessibility challenges</h3>
 <p>Want to go deeper into the accessibility evaluation. Here's an opportunity to show off your chops with more accessibility evaluation of the site forms, PDF files and more, using your favorite evaluation tools.</p>
 
-<p><b><a href="https://www.jotform.com/form/212714795547162">Get started with more accessibility challenges</a></b></p
+<p><b><a href="https://www.jotform.com/form/212714795547162">Get started with more accessibility challenges</a></b></p>
 
 <h2>Explore the accessible voting experience and design the AVI</h2>
-<p>Maybe accessibility evaluation, information architecture and other website explorations aren't your cuppa. 
+<p>Maybe accessibility evaluation, information architecture and other website explorations aren't your cuppa.</p> 
 
 <h3>4. Your accessible voting stories</h3>
 <p>Do you have a story to tell? We want to hear it. We invite you to tell your own story about accessible voting. It can be from a recent election. Or it can be a chance to share your experience in this Hack as you tried to find information on a state website. We’ll use these stories to illustrate the importance of accessible voting and the ways elections can be full of barriers --- or delightful to use.</p>
