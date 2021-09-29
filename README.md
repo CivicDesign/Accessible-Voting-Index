@@ -47,6 +47,6 @@ Along with the design sketches, you’ll also write a brief summary of your conc
 
 Some examples from the election world with similar content are <a href="https://www.healthyvoting.org/">HealthyVoting</a>, <a href="https://elections.mit.edu/#/data/map">the MIT Elections Performance Index</a>, <a href="https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx">NCSL’s 50-state scans on voting topics</a>, the EAVS state-by-state data brief (<a href="https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx">example from 2018</a>).
 
-You'll work in your favorite tools and share the concepts and a description of your design goals and what inspired you, and anything else to explain why your concept is a good solution.
+<p>You'll work in your favorite tools and share the concepts and a description of your design goals and what inspired you, and anything else to explain why your concept is a good solution.</p>
 
 <a href="https://www.jotform.com/form/212715475040146">Share your design ideas</a>
