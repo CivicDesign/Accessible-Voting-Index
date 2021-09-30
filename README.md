@@ -1,12 +1,16 @@
-<em>Note to team: links now go to the forms directly, but will eventually go to the state picker spreadsheet.</em>
-general info goes up here.
+<h1>About the Accessible Voting Index</h1>
+<p>There is an election participation gap: people with disabilities are almost 6% less likely to vote. One reason is that with 6000+ election offices in 50 states, finding information about accessible voting is a challenge. </p>
+
+<p>We want to change that. We're building a nationwide database of the options available for accessible voting that can make accessible voting information easy to find, use, and share. </p>
+
+<p>We envision state profiles with a summary of the voting policies, procedures, systems, and information access that affect voters with disabilities. And, a way to compare features by states, so we can identify opportunities to design solutions for real problems, identify policies that make a difference, and help elections offices invite everyone to vote. </p>
 
 <h1>Here's what you can do to help.</h1>
 
 <h2>Review state information on accessible voting</h2>
 <p>We’re collecting basic information for how to find information about accessible voting on a state election website. We’re focused on the official state websites in the United States because they should be a reliable and accessible source of information. The details you help us collect will be added to other data sources for policies and ways to vote, so we can create a resource that can help voters and be incorporated into other election information sites.</p>
 
-<p>All three of the challenges in this group start by picking a state to explore. Ideally, it will be a place where you have lived and voted, so you have some context. But, you can pick any state you like to help us cover all 50 states and DC.</p>
+<p>All three of the challenges in this group start by picking a state to explore. Ideally, it will be a place where you have lived and voted, so you have some context. But, you can pick any state you like to help us cover all 50 states and DC.<em>Note to team: links now go to the forms directly, but will eventually go to the state picker.</em>.</p>
 
 <h3>1. Collect basic website information</h3>
 <p>We are building a picture of how easy it is for voters with disabilities to find and use information about accessible voting on the official election websites in 50 states and DC.</p>
@@ -53,3 +57,7 @@ Some examples from the election world with similar content are <a href="https://
 <p>You'll work in your favorite tools and share the concepts and a description of your design goals and what inspired you, and anything else to explain why your concept is a good solution.</p>
 
   <p><b><a href="https://www.jotform.com/form/212715475040146">Share your design ideas</a></b></p>
+  
+  
+  
+  
