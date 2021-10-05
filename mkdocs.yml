@@ -36,11 +36,7 @@ markdown_extensions:
 
 nav:
   - Overview: index.md
-  - Policy: policy.md
-  - Finding Accessible Voting Options: accessibility_resources.md 
-  - Website Accessibility Review: state_accessibility_review.md
-  - State Election Resources: state_resources.md
-  - Election Stories: stories.md 
-
+  - How to help: Howto.md
+  
 extra_css:
   - stylesheets/extra.css  

@@ -13,7 +13,6 @@ If you are starting with this site, or want to do another state site, go to [thi
 
 [Check with WAI’s Easy Checks](https://beta.lfocalculator.org){: .md-button .md-button--amber }
 
-
 ## Sample flows
 
 ### Check with WebAim’s WAVE
