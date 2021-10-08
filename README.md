@@ -20,7 +20,7 @@ We are building a picture of how easy it is for voters with disabilities to find
 
 You will collect details about the information available on the state elections website, the accessibility of the information, You'll identify the types of information and do some quick checks for the accessibility of the information. I know. That's pretty meta, but if just 1 page on an official state elections site is accessible, this should be the one. And it tells us something about how accessible the whole site is. The information you will collect includes both structured descriptions of the information and your insights about the user experience.
 
-[Get started on basic website information](https://www.jotform.com/form/212706217322143")>
+[Get started on basic website information](https://www.jotform.com/form/212706217322143)
 
 #### 2. Report on findability, or how hard (or easy) it is to find that information
 
