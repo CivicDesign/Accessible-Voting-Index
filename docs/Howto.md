@@ -39,7 +39,7 @@ We’re looking for designs for how to present all the information we are collec
 
 <p>Work in your own favorite tools, then share our design ideas can be shared as wireframes, storyboards, page images, IA or design structure diagrams, or interactive design prototypes. Along with the design sketches, you’ll also write a brief summary of your concepts and how they can help support the goals of making information about accessible voting be usable, useful, and accessible.</p>
 
-Some examples from the election world:
+Some examples from the election world, for inspiration:
 <UL>
   <li><a href="https://www.healthyvoting.org/">HealthyVoting</a></li>
   <li><a href="https://elections.mit.edu/#/data/map">MIT Elections Performance Index</a></li>
