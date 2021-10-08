@@ -37,6 +37,7 @@ markdown_extensions:
 nav:
   - Overview: index.md
   - How to help: Howto.md
+  - State websites: state_resources.md
   
 extra_css:
   - stylesheets/extra.css  
