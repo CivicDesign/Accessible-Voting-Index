@@ -5,10 +5,9 @@ We’re collecting basic information for how to find information about accessibl
 ## Collect basic website information
 We are building a picture of how easy it is for voters with disabilities to find and use information about accessible voting on the official election websites in 50 states and DC.
 
-You will collect details about the information available on the state elections website and the accessibility of the information, You'll identify the types of information they provide and do some quick checks for the accessibility of the information. I know. That's pretty meta, but tells us something about how accessible the whole site is.
+You will collect details about the information available on the state elections website and dome some quick checks of the accessibility of the information. I know. That's pretty meta, but tells us something about how accessible the whole site is.
 
 We've divided this into three separate activities, so each one is short. Anyone can do the first two; the advanced activity requires a small amount of technical knowledge. The information you will collect includes both structured descriptions of the information and your insights about the user experience.
-
 
 * Basic accessibility review of the page for accessible voting.
 * Findability review looking at the path to the information.
@@ -20,10 +19,10 @@ To get started on these activities, pick a state to explore. Ideally, it will be
 <a href="https://civicdesign.github.io/Accessible-Voting-Index/state_resources/"><b>Go to the state elections website page and get started</b></a>
 
 
-## Your accessible voting stories</h2>
+## Share your accessible voting stories</h2>
 Do you have a story to tell? We want to hear it. We invite you to tell your own story about accessible voting. It can be from a recent election. Or it can be a chance to share your experience in this Hack as you tried to find information on a state website. We’ll use these stories to illustrate the importance of accessible voting and the ways elections can be full of barriers --- or delightful to use.
 
-<a href="https://www.jotform.com/form/212714795547162">Tell your story</a>
+<a href="https://www.jotform.com/form/212714795547162"><b>Tell your story</b></a>
 
 ## Show us your design chops
 Feeling creative? We’re gathering a lot of information and also need to make it delightful and intuitive to use. It needs to be accessible (of course), while making it easy to find and understand the accessible voting options in each state.
@@ -36,6 +35,5 @@ The site will run as a native web page (not an app), needs to look compelling an
 * A way to compare accessible voting in a 2 to 4 states
 
 Work in your own favorite tools, then share our design ideas can be shared as wireframes, storyboards, page images, or a quick prototype. Share our work design sketches and a brief summary of your concept.
-
 
 <a href="https://www.jotform.com/form/212715475040146"><b>Share your design ideas</b></a>
