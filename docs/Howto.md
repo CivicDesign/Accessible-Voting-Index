@@ -28,16 +28,14 @@ Do you have a story to tell? We want to hear it. We invite you to tell your own 
 ## Show us your design chops
 Feeling creative? We’re gathering a lot of information and also need to make it delightful and intuitive to use. It needs to be accessible (of course), while making it easy to find and understand the accessible voting options in each state.
 
-We’re looking for designs for how to present all the information we are collecting. The site will run as a native web page (not an app), needs to look compelling and modern, be easy to read, invite exploration, and (of course) be completely accessible.</p>
+The site will run as a native web page (not an app), needs to look compelling and modern, be easy to read, invite exploration, and (of course) be completely accessible. Some examples from the election world, for inspiration, include HealthyVoting.org, the MIT Elections Performance Index, the EAC state profileslike <a href="https://www.eac.gov/sites/default/files/eac_assets/1/6/EAVS_2018_Data_Brief_PA.pdf">this one</a></li>
 
 * A home page to show the scope of the information and start digging into the details by state
 * A state page that is structured a easy to explore
 * Ideas and inspirations for information visualizations
 * A way to compare accessible voting in a 2 to 4 states
 
-Work in your own favorite tools, then share our design ideas can be shared as wireframes, storyboards, page images, IA or design structure diagrams, or interactive design prototypes. Along with the design sketches, you’ll also write a brief summary of your concepts and how they can help support the goals of making information about accessible voting be usable, useful, and accessible.</p>
-
-Some examples from the election world, for inspiration, include HealthyVoting.org, the MIT Elections Performance Index, the EAC State profile <a href="https://www.eac.gov/sites/default/files/eac_assets/1/6/EAVS_2018_Data_Brief_PA.pdf">like this one</a></li>
+Work in your own favorite tools, then share our design ideas can be shared as wireframes, storyboards, page images, or a quick prototype. Share our work design sketches and a brief summary of your concept.
 
 
 <a href="https://www.jotform.com/form/212715475040146"><b>Share your design ideas</b></a>
