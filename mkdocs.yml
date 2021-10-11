@@ -38,6 +38,7 @@ nav:
   - Overview: index.md
   - How to help: Howto.md
   - State websites: state_resources.md
+  - Updates and announcents: updates.md
   
 extra_css:
   - stylesheets/extra.css  
