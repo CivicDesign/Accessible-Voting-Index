@@ -1,2 +1,2 @@
-# Hackathon updates
+# Updates and announcements
 Watch this space
