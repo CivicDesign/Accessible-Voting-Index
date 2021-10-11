@@ -16,6 +16,7 @@ repo_url: https://github.com/CivicDesign/Accessible-Voting-Index
 plugins:
   - search
   - mermaid2
+
 markdown_extensions:
   - admonition
   - attr_list
