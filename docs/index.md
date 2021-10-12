@@ -1,6 +1,6 @@
 # The Election Accessibility Index
 
-!!! warning "The challenge: an election participation gap for people with disabilities"
+!!! alert "The challenge: an election participation gap for people with disabilities"
 
 According to the Elections Assistance Commission (EAC), in 2020, people with disabilities were 5.7% less likely to vote.
 

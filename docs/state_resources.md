@@ -1,9 +1,13 @@
 # State Election Websites
+
 This page has the links for the three activities for reviewing the content and accessibility for information for voters with disabilities. 
 
-
 ## Accessible Voter Website Evaluation
-Use the links in this table to start the basic accessibility review. This activity starts from the accessible voting information page. During the activity, you will uses the WAVE accessibility evaluation tool, so keep this window open so you can get back to it. 
+
+Use the links in this table to start the basic accessibility review. This activity starts from the accessible voting information page. During the activity, you will uses the WAVE accessibility evaluation tool, so keep this window open so you can get back to it.
+
+!!! info
+    You can [find which states have been evaluated](https://docs.google.com/spreadsheets/d/1kp8bjltH4Q6EK8p8rrqJeoCUJRVvsuMT94CRL-SLpT8/edit?usp=sharing){: target="_blank"} already by [going to this spreadsheet](https://docs.google.com/spreadsheets/d/1kp8bjltH4Q6EK8p8rrqJeoCUJRVvsuMT94CRL-SLpT8/edit?usp=sharing){: target="_blank"}
 
 When you are done, jump to the second table for the findability and bonus evaluations.
 

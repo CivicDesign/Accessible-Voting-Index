@@ -3,6 +3,7 @@
 We’re collecting basic information for how to find information about accessible voting on a state election website. We’re focused on the official state websites in the United States because they should be a reliable and accessible source of information. The details you help us collect will be added to other data sources for policies and ways to vote, so we can create a resource that can help voters and be incorporated into other election information sites.
 
 [![Vimeo video screenshot](./images/aux-vid-img.png)](https://vimeo.com/629246767")
+
 ## Collect basic website information
 We are building a picture of how easy it is for voters with disabilities to find and use information about accessible voting on the official election websites in 50 states and DC.
 
@@ -14,12 +15,12 @@ We've divided this into three separate activities, so each one is short. Anyone 
 * Findability review looking at the path to the information.
 * Advanced accessibility review with a few more evals that needs some technical knowledge
 
+To get started on these activities, pick a state to explore ([you can see the list of states that have been done here](https://docs.google.com/spreadsheets/d/1kp8bjltH4Q6EK8p8rrqJeoCUJRVvsuMT94CRL-SLpT8/edit?usp=sharing){: target="_blank"}). Ideally, it will be a place where you have lived and voted, so you have some context. But, you can pick any state you like to help us cover all 50 states and DC. 
 
-To get started on these activities, pick a state to explore. Ideally, it will be a place where you have lived and voted, so you have some context. But, you can pick any state you like to help us cover all 50 states and DC. 
+[Go to the state elections website page and get started](https://civicdesign.github.io/Accessible-Voting-Index/state_resources/){: target="_blank"}
 
-<a href="https://civicdesign.github.io/Accessible-Voting-Index/state_resources/"><b>Go to the state elections website page and get started</b></a>
-
-
+!!! info
+    You can [find which states have been evaluated](https://docs.google.com/spreadsheets/d/1kp8bjltH4Q6EK8p8rrqJeoCUJRVvsuMT94CRL-SLpT8/edit?usp=sharing){: target="_blank"} already by [going to this spreadsheet](https://docs.google.com/spreadsheets/d/1kp8bjltH4Q6EK8p8rrqJeoCUJRVvsuMT94CRL-SLpT8/edit?usp=sharing){: target="_blank"}
 ## Share your accessible voting stories</h2>
 Do you have a story to tell? We want to hear it. We invite you to tell your own story about accessible voting. It can be from a recent election. Or it can be a chance to share your experience in this Hack as you tried to find information on a state website. We’ll use these stories to illustrate the importance of accessible voting and the ways elections can be full of barriers --- or delightful to use.
 
