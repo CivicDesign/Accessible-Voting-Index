@@ -23,7 +23,7 @@ To get started on these activities, pick a state to explore. Ideally, it will be
 ## Share your accessible voting stories</h2>
 Do you have a story to tell? We want to hear it. We invite you to tell your own story about accessible voting. It can be from a recent election. Or it can be a chance to share your experience in this Hack as you tried to find information on a state website. We’ll use these stories to illustrate the importance of accessible voting and the ways elections can be full of barriers --- or delightful to use.
 
-<a href="https://www.jotform.com/212715440153143"><b>Tell your story</b></a>
+<a href="https://www.jotform.com/212715440153143" target="_blank"><b>Tell your story</b></a>
 
 ## Show us your design chops
 Feeling creative? We’re gathering a lot of information and also need to make it delightful and intuitive to use. It needs to be accessible (of course), while making it easy to find and understand the accessible voting options in each state.
@@ -37,4 +37,4 @@ The site will run as a native web page (not an app), needs to look compelling an
 
 Work in your own favorite tools, then share our design ideas can be shared as wireframes, storyboards, page images, or a quick prototype. Share our work design sketches and a brief summary of your concept.
 
-<a href="https://www.jotform.com/form/212715475040146"><b>Share your design ideas</b></a>
+<a href="https://www.jotform.com/form/212715475040146" target="_blank"><b>Share your design ideas</b></a>
