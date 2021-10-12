@@ -64,6 +64,7 @@ When you are done, jump to the second table for the findability and bonus evalua
 
 ## State Voter Websites for Findability and Advanced Reviews
 Use the links in this table to start the finability review and the advanced accessibility review. Both activities start from the state election website home page or the landing page for voter information.
+
 |  State |    Survey | WAVE  |  Bonus survey |
 | :----:| ----- | ----- | ------ |
 | [Alabama <br> general](https://sos.alabama.gov/alabama-votes){: .md-button target="_blank"} | [Start survey](https://form.jotform.com/212706217322143?aboutThe[field_1=Alabama&aboutThe[field_2]=https://sos.alabama.gov/alabama-votes){: .md-button target="_blank"} | [Launch WAVE](https://wave.webaim.org/report#/https://sos.alabama.gov/alabama-votes){: .md-button target="_blank"} | [Start bonus survey](https://form.jotform.com/212714795547162?aboutThe[field_1]=Alabama&aboutThe[field_2]=https://sos.alabama.gov/alabama-votes){: .md-button target="_blank"} |
