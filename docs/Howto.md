@@ -2,7 +2,7 @@
 
 We’re collecting basic information for how to find information about accessible voting on a state election website. We’re focused on the official state websites in the United States because they should be a reliable and accessible source of information. The details you help us collect will be added to other data sources for policies and ways to vote, so we can create a resource that can help voters and be incorporated into other election information sites.
 
-[![Vimeo video screenshot](./images/aux-vid-img.png)](https://vimeo.com/629246767){:target="_blank"}
+[![Vimeo video screenshot](./images/aux-vid-img.png)](https://vimeo.com/629246767")
 ## Collect basic website information
 We are building a picture of how easy it is for voters with disabilities to find and use information about accessible voting on the official election websites in 50 states and DC.
 
