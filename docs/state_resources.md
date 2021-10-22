@@ -1,12 +1,13 @@
 # State Election Websites
 
-This page has the links for the three activities for reviewing the content and accessibility for information for voters with disabilities. 
+This page has the links for the three activities for reviewing the content and accessibility for information for voters with disabilities.
 
 !!! info
-    Thank you everyone who has filled out Form 1: state accessible voting information. All states have been accounted for, and the form is now closed. Please help us out by filling out Form 2: finding official accessible voting information and Form 3: Bonus accessible voting page accessibility checks. 
+    ***Thank you everyone who has filled out Form 1: state accessible voting information***. All states have been accounted for, and the form is now closed. 
+    Please help us out by filling out ***Form 2: Finding Official Accessible Voting Information*** and ***Form 3: Bonus Accessible Voting Page Accessibility Checks***.
 
 ## State Voter Websites for Findability and Advanced Reviews
-Use the links in this table to start the finability review and the advanced accessibility review. Both activities start from the state election website home page or the landing page for voter information.
+Use the links in this table to start the findability review and the advanced accessibility review. Both activities start from the state election website home page or the landing page for voter information.
 
 |  State |    Survey |   Bonus Checks |
 | :----:| ----- | ----- | 
